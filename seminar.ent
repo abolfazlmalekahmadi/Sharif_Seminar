@@ -1,0 +1,455 @@
+\@doanenote {1}
+macro:->\lr
+{Semantic
+Segmentation}
+\@endanenote 
+\@doanenote {2}
+macro:->\lr
+{Point
+Cloud}
+\@endanenote 
+\@doanenote {3}
+macro:->\lr
+{Remote
+Sensing}
+\@endanenote 
+\@doanenote {4}
+macro:->\lr
+{Supervised}
+\@endanenote 
+\@doanenote {5}
+macro:->\lr
+{Limited-Supervision}
+\@endanenote 
+\@doanenote {6}
+macro:->\lr
+{LiDARs}
+\@endanenote 
+\@doanenote {7}
+macro:->\lr
+{ِDepth
+Image}
+\@endanenote 
+\@doanenote {8}
+macro:->\lr
+{Mesh}
+\@endanenote 
+\@doanenote {9}
+macro:->\lr
+{Voxel}
+\@endanenote 
+\@doanenote {10}
+macro:->\lr
+{Convolutional
+Neural
+Network
+(CNN)}
+\@endanenote 
+\@doanenote {11}
+macro:->\lr
+{Symmetry}
+\@endanenote 
+\@doanenote {12}
+macro:->\lr
+{Sparse}
+\@endanenote 
+\@doanenote {13}
+macro:->\lr
+{ُSelf-attention}
+\@endanenote 
+\@doanenote {14}
+macro:->\lr
+{Lattice}
+\@endanenote 
+\@doanenote {15}
+macro:->\lr
+{Features}
+\@endanenote 
+\@doanenote {16}
+macro:->\lr
+{Pre-trained}
+\@endanenote 
+\@doanenote {17}
+macro:->\lr
+{Max
+Pooling}
+\@endanenote 
+\@doanenote {18}
+macro:->\lr
+{Average
+Pooling}
+\@endanenote 
+\@doanenote {19}
+macro:->\lr
+{SVM:support
+vector
+machines}
+\@endanenote 
+\@doanenote {20}
+macro:->\lr
+{KNN}
+\@endanenote 
+\@doanenote {21}
+macro:->\lr
+{Graph
+Convolutional
+Cetwork}
+\@endanenote 
+\@doanenote {22}
+macro:->\lr
+{Message
+Passing}
+\@endanenote 
+\@doanenote {23}
+macro:->\lr
+{ّّFSP:farthest
+point
+sampling}
+\@endanenote 
+\@doanenote {24}
+macro:->\lr
+{Extension}
+\@endanenote 
+\@doanenote {25}
+macro:->\lr
+{End
+to
+End}
+\@endanenote 
+\@doanenote {26}
+macro:->\lr
+{
+Occlusion
+}
+\@endanenote 
+\@doanenote {27}
+macro:->\lr
+{
+Granularity
+}
+\@endanenote 
+\@doanenote {28}
+macro:->\lr
+{
+Sparse
+Convolution
+}
+\@endanenote 
+\@doanenote {29}
+macro:->\lr
+{
+Interpolation
+}
+\@endanenote 
+\@doanenote {30}
+macro:->\lr
+{
+Bilateral
+Convolution
+Layers
+}
+\@endanenote 
+\@doanenote {31}
+macro:->\lr
+{
+Lattice
+}
+\@endanenote 
+\@doanenote {32}
+macro:->\lr
+{Receptive
+Field
+}
+\@endanenote 
+\@doanenote {33}
+macro:->\lr
+{Regression}
+\@endanenote 
+\@doanenote {34}
+macro:->\lr
+{Transformation
+matrix}
+\@endanenote 
+\@doanenote {35}
+macro:->\lr
+{Canonical
+}
+\@endanenote 
+\@doanenote {36}
+macro:->\lr
+{Shared
+Network
+}
+\@endanenote 
+\@doanenote {37}
+macro:->\lr
+{Global
+}
+\@endanenote 
+\@doanenote {38}
+macro:->\lr
+{Recurrent
+Neural
+Network
+}
+\@endanenote 
+\@doanenote {39}
+macro:->\lr
+{Robust}
+\@endanenote 
+\@doanenote {40}
+macro:->\lr
+{Locality}
+\@endanenote 
+\@doanenote {41}
+macro:->\lr
+{Inductive
+Bias}
+\@endanenote 
+\@doanenote {42}
+macro:->\lr
+{Sampling}
+\@endanenote 
+\@doanenote {43}
+macro:->\lr
+{Farthest
+Point
+Sampling}
+\@endanenote 
+\@doanenote {44}
+macro:->\lr
+{K
+Nearest
+Neighbor}
+\@endanenote 
+\@doanenote {45}
+macro:->\lr
+{Up-Convolution}
+\@endanenote 
+\@doanenote {46}
+macro:->\lr
+{Lookup
+Table
+}
+\@endanenote 
+\@doanenote {47}
+macro:->\lr
+{Outlier}
+\@endanenote 
+\@doanenote {48}
+macro:->\lr
+{Adaptive
+Sampling}
+\@endanenote 
+\@doanenote {49}
+macro:->\lr
+{Module}
+\@endanenote 
+\@doanenote {50}
+macro:->\lr
+{Local-Nonlocal}
+\@endanenote 
+\@doanenote {51}
+macro:->\lr
+{Computer
+vision}
+\@endanenote 
+\@doanenote {52}
+macro:->\lr
+{Euclidean
+Distance}
+\@endanenote 
+\@doanenote {53}
+macro:->\lr
+{Edge
+Convolution}
+\@endanenote 
+\@doanenote {54}
+macro:->\lr
+{Aggregation}
+\@endanenote 
+\@doanenote {55}
+macro:->\lr
+{Skip
+Connections}
+\@endanenote 
+\@doanenote {56}
+macro:->\lr
+{
+Dynamic}
+\@endanenote 
+\@doanenote {57}
+macro:->\lr
+{
+Vanishing
+Gradient}
+\@endanenote 
+\@doanenote {58}
+macro:->\lr
+{Transformer}
+\@endanenote 
+\@doanenote {59}
+macro:->\lr
+{Positional
+Encoding}
+\@endanenote 
+\@doanenote {60}
+macro:->\lr
+{Token}
+\@endanenote 
+\@doanenote {61}
+macro:->\lr
+{Logit}
+\@endanenote 
+\@doanenote {62}
+macro:->\lr
+{self-attention}
+\@endanenote 
+\@doanenote {63}
+macro:->\lr
+{Key}
+\@endanenote 
+\@doanenote {64}
+macro:->\lr
+{Query}
+\@endanenote 
+\@doanenote {65}
+macro:->\lr
+{Value}
+\@endanenote 
+\@doanenote {66}
+macro:->\lr
+{Closed
+Set}
+\@endanenote 
+\@doanenote {67}
+macro:->\lr
+{ٍEpisodic}
+\@endanenote 
+\@doanenote {68}
+macro:->\lr
+{ًQuery
+Set}
+\@endanenote 
+\@doanenote {69}
+macro:->\lr
+{Support
+Set}
+\@endanenote 
+\@doanenote {70}
+macro:->\lr
+{ٌWay}
+\@endanenote 
+\@doanenote {71}
+macro:->\lr
+{Shot}
+\@endanenote 
+\@doanenote {72}
+macro:->\lr
+{Prototype}
+\@endanenote 
+\@doanenote {73}
+macro:->\lr
+{Embedding
+Network}
+\@endanenote 
+\@doanenote {74}
+macro:->\lr
+{Cross
+Entropy}
+\@endanenote 
+\@doanenote {75}
+macro:->\lr
+{constraints}
+\@endanenote 
+\@doanenote {76}
+macro:->\lr
+{Rotation}
+\@endanenote 
+\@doanenote {77}
+macro:->\lr
+{mirror}
+\@endanenote 
+\@doanenote {78}
+macro:->\lr
+{Siamese}
+\@endanenote 
+\@doanenote {79}
+macro:->\lr
+{Encoder}
+\@endanenote 
+\@doanenote {80}
+macro:->\lr
+{Multi-Instance
+Learning}
+\@endanenote 
+\@doanenote {81}
+macro:->\lr
+{Smooth}
+\@endanenote 
+\@doanenote {82}
+macro:->\lr
+{Epoch}
+\@endanenote 
+\@doanenote {83}
+macro:->\lr
+{Super-Voxel}
+\@endanenote 
+\@doanenote {84}
+macro:->\lr
+{Pooling}
+\@endanenote 
+\@doanenote {85}
+macro:->\lr
+{Conditional
+Random
+Field}
+\@endanenote 
+\@doanenote {86}
+macro:->\lr
+{Unary}
+\@endanenote 
+\@doanenote {87}
+macro:->\lr
+{Pairwise}
+\@endanenote 
+\@doanenote {88}
+macro:->\lr
+{Confidence}
+\@endanenote 
+\@doanenote {89}
+macro:->\lr
+{Self-Training}
+\@endanenote 
+\@doanenote {90}
+macro:->\lr
+{mIoU}
+\@endanenote 
+\@doanenote {91}
+macro:->\lr
+{OA:overall
+accuracy}
+\@endanenote 
+\@doanenote {92}
+macro:->\lr
+{Ground
+Truth}
+\@endanenote 
+\@doanenote {93}
+macro:->\lr
+{
+Knowledge
+Distillation}
+\@endanenote 
+\@doanenote {94}
+macro:->\lr
+{
+Head
+}
+\@endanenote 
+\@doanenote {95}
+macro:->\lr
+{
+Trade-off
+}
+\@endanenote 

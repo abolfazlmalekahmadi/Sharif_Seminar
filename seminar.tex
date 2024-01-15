@@ -1,0 +1,97 @@
+\documentclass[11pt]{article}
+\usepackage{wrapfig,lipsum}
+\usepackage{makecell}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{MyTemplate}
+\usepackage{multirow}
+\usepackage{endnotes}
+\usepackage{graphics}
+\let\footnote=\endnote
+\newcommand{\پاورقی}[1]{\footnote{\lr{#1}}}
+\newcommand{\cols}[1]{
+ \begin{tabular}{@{}c@{}} #1 \end{tabular}
+}   
+
+
+\begin{document}
+
+\input{title}
+
+
+{\bf {چکیده: }}
+
+
+
+
+{\bf  { واژه‌های کلیدی: }}
+
+
+\setlength{\parindent}{0.25in} %The indent of the paragraph first line
+
+\section{مقدمه}
+
+
+% TODO: \usepackage{graphicx} required
+% \begin{figure}[htbp]
+% 	\centering
+% 	\includegraphics[scale=0.5]{images/}
+% 	\captionsetup{justification=centering}
+% 	\caption[]{\cite{}.}
+% \label{MOT-Diagram}
+% \end{figure}
+
+
+
+
+
+
+\begin{itemize}
+
+
+\item{} 
+
+
+
+\end{itemize}
+
+
+\section{بررسی کار‌های مرتبط پیشین}
+
+
+
+
+
+
+
+
+\section{راهکار پیشنهادی}
+
+
+
+
+
+
+
+\input{ff}
+%
+%\linespread{1}
+%\small
+%\setlength{\parskip}{0pt}
+%\setlength{\parsep}{0pt}
+\input{bib}
+%
+%\newpage
+
+
+\clearpage
+
+%\Persian
+\section*{واژه‌نامه}
+\begin{LTR}
+\begin{multicols}{3}
+\theendnotes 
+\end{multicols}
+\end{LTR}
+\end{document}
+

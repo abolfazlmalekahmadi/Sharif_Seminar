@@ -1,0 +1,376 @@
+@Article{krizhevsky2012imagenet,
+  author    = {Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  journal   = {Advances in neural information processing systems},
+  title     = {Imagenet classification with deep convolutional neural networks},
+  year      = {2012},
+  month     = {may},
+  number    = {6},
+  pages     = {1097--1105},
+  volume    = {25},
+  doi       = {10.1145/3065386},
+  publisher = {Association for Computing Machinery ({ACM})},
+}
+
+@InProceedings{wei2020view,
+  author    = {Wei, Xin and Yu, Ruixuan and Sun, Jian},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title     = {View-GCN: View-based graph convolutional network for 3D shape analysis},
+  year      = {2020},
+  pages     = {1850--1859},
+  doi       = {10.1109/cvpr42600.2020.00192},
+}
+
+@Article{ng2003sift,
+  author    = {Ng, Pauline C and Henikoff, Steven},
+  journal   = {Nucleic acids research},
+  title     = {SIFT: Predicting amino acid changes that affect protein function},
+  year      = {2003},
+  month     = {jul},
+  number    = {13},
+  pages     = {3812--3814},
+  volume    = {31},
+  doi       = {10.1093/nar/gkg509},
+  publisher = {Oxford University Press},
+}
+
+@InProceedings{su2015multi,
+  author    = {Su, Hang and Maji, Subhransu and Kalogerakis, Evangelos and Learned-Miller, Erik},
+  booktitle = {Proceedings of the IEEE international conference on computer vision},
+  title     = {Multi-view convolutional neural networks for 3d shape recognition},
+  year      = {2015},
+  pages     = {945--953},
+  doi       = {10.1109/iccv.2015.114},
+}
+
+@Article{ravi2020accelerating,
+  author  = {Ravi, Nikhila and Reizenstein, Jeremy and Novotny, David and Gordon, Taylor and Lo, Wan-Yen and Johnson, Justin and Gkioxari, Georgia},
+  journal = {arXiv preprint arXiv:2007.08501},
+  title   = {Accelerating 3d deep learning with pytorch3d},
+  year    = {2020},
+  doi     = {10.1145/3415263.3419160},
+}
+
+@article{qi2017pointnet++,
+	title={Pointnet++: Deep hierarchical feature learning on point sets in a metric space},
+	author={Qi, Charles R and Yi, Li and Su, Hao and Guibas, Leonidas J},
+	journal={arXiv preprint arXiv:1706.02413},
+	year={2017}
+}
+
+@inproceedings{hamdi2021mvtn,
+  title={Mvtn: Multi-view transformation network for 3d shape recognition},
+  author={Hamdi, Abdullah and Giancola, Silvio and Ghanem, Bernard},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1--11},
+  year={2021}
+}
+
+@InProceedings{lin2019justlookup,
+  author       = {Lin, Hongxin and Xiao, Zelin and Tan, Yang and Chao, Hongyang and Ding, Shengyong},
+  booktitle    = {2019 IEEE International Conference on Multimedia and Expo (ICME)},
+  title        = {Justlookup: One millisecond deep feature extraction for point clouds by lookup tables},
+  year         = {2019},
+  month        = {jul},
+  organization = {IEEE},
+  pages        = {326--331},
+  publisher    = {{IEEE}},
+  doi          = {10.1109/icme.2019.00064},
+}
+
+@InProceedings{sun2019srinet,
+  author    = {Sun, Xiao and Lian, Zhouhui and Xiao, Jianguo},
+  booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
+  title     = {Srinet: Learning strictly rotation-invariant representations for point cloud classification and segmentation},
+  year      = {2019},
+  pages     = {980--988},
+  doi       = {10.1145/3343031.3351042},
+}
+
+@InProceedings{yan2020pointasnl,
+  author    = {Yan, Xu and Zheng, Chaoda and Li, Zhen and Wang, Sheng and Cui, Shuguang},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title     = {Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling},
+  year      = {2020},
+  pages     = {5589--5598},
+  doi       = {10.1109/cvpr42600.2020.00563},
+}
+
+@InProceedings{qi2017pointnet,
+  author    = {Qi, Charles R and Su, Hao and Mo, Kaichun and Guibas, Leonidas J},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  title     = {Pointnet: Deep learning on point sets for 3d classification and segmentation},
+  year      = {2017},
+  pages     = {652--660},
+  doi       = {10.1109/cvpr.2017.16},
+}
+
+@Article{DBLP:journals/corr/abs-1711-10275,
+  author     = {Benjamin Graham and Martin Engelcke and Laurens van der Maaten},
+  journal    = {CoRR},
+  title      = {3D Semantic Segmentation with Submanifold Sparse Convolutional Networks},
+  year       = {2017},
+  volume     = {abs/1711.10275},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-1711-10275.bib},
+  eprint     = {1711.10275},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Aug 2018 16:47:42 +0200},
+  url        = {http://arxiv.org/abs/1711.10275},
+}
+
+@Article{DBLP:journals/corr/abs-1802-08275,
+  author     = {Hang Su and Varun Jampani and Deqing Sun and Subhransu Maji and Evangelos Kalogerakis and Ming{-}Hsuan Yang and Jan Kautz},
+  journal    = {CoRR},
+  title      = {SPLATNet: Sparse Lattice Networks for Point Cloud Processing},
+  year       = {2018},
+  volume     = {abs/1802.08275},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-1802-08275.bib},
+  eprint     = {1802.08275},
+  eprinttype = {arXiv},
+  timestamp  = {Sun, 19 Jul 2020 18:26:26 +0200},
+  url        = {http://arxiv.org/abs/1802.08275},
+}
+
+@InProceedings{jampani2016learning,
+  author    = {Jampani, Varun and Kiefel, Martin and Gehler, Peter V},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  title     = {Learning sparse high dimensional filters: Image filtering, dense crfs and bilateral neural networks},
+  year      = {2016},
+  pages     = {4452--4461},
+}
+
+@Article{DBLP:journals/corr/abs-1912-05905,
+  author     = {Radu Alexandru Rosu and Peer Sch{\"{u}}tt and Jan Quenzel and Sven Behnke},
+  journal    = {CoRR},
+  title      = {LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices},
+  year       = {2019},
+  volume     = {abs/1912.05905},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-1912-05905.bib},
+  eprint     = {1912.05905},
+  eprinttype = {arXiv},
+  timestamp  = {Thu, 02 Jan 2020 18:08:18 +0100},
+  url        = {http://arxiv.org/abs/1912.05905},
+}
+
+@Article{DBLP:journals/corr/abs-1801-07829,
+  author     = {Yue Wang and Yongbin Sun and Ziwei Liu and Sanjay E. Sarma and Michael M. Bronstein and Justin M. Solomon},
+  journal    = {CoRR},
+  title      = {Dynamic Graph {CNN} for Learning on Point Clouds},
+  year       = {2018},
+  volume     = {abs/1801.07829},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-1801-07829.bib},
+  eprint     = {1801.07829},
+  eprinttype = {arXiv},
+  timestamp  = {Thu, 16 Apr 2020 07:55:10 +0200},
+  url        = {http://arxiv.org/abs/1801.07829},
+}
+
+@Article{DBLP:journals/corr/VinyalsBLKW16,
+  author     = {Oriol Vinyals and Charles Blundell and Timothy P. Lillicrap and Koray Kavukcuoglu and Daan Wierstra},
+  journal    = {CoRR},
+  title      = {Matching Networks for One Shot Learning},
+  year       = {2016},
+  volume     = {abs/1606.04080},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/VinyalsBLKW16.bib},
+  eprint     = {1606.04080},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Aug 2018 16:46:48 +0200},
+  url        = {http://arxiv.org/abs/1606.04080},
+}
+
+@Article{DBLP:journals/corr/abs-2006-12052,
+  author     = {Na Zhao and Tat{-}Seng Chua and Gim Hee Lee},
+  journal    = {CoRR},
+  title      = {Few-shot 3D Point Cloud Semantic Segmentation},
+  year       = {2020},
+  volume     = {abs/2006.12052},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2006-12052.bib},
+  eprint     = {2006.12052},
+  eprinttype = {arXiv},
+  timestamp  = {Tue, 23 Jun 2020 17:57:22 +0200},
+  url        = {https://arxiv.org/abs/2006.12052},
+}
+
+@Article{DBLP:journals/corr/SnellSZ17,
+  author     = {Jake Snell and Kevin Swersky and Richard S. Zemel},
+  journal    = {CoRR},
+  title      = {Prototypical Networks for Few-shot Learning},
+  year       = {2017},
+  volume     = {abs/1703.05175},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/SnellSZ17.bib},
+  eprint     = {1703.05175},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Aug 2018 16:46:05 +0200},
+  url        = {http://arxiv.org/abs/1703.05175},
+}
+
+@InProceedings{zhang2019pyramid,
+  author    = {Zhang, Chi and Lin, Guosheng and Liu, Fayao and Guo, Jiushuang and Wu, Qingyao and Yao, Rui},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  title     = {Pyramid graph networks with connection attentions for region-based one-shot semantic segmentation},
+  year      = {2019},
+  pages     = {9587--9595},
+}
+
+@InProceedings{zhou2004learning,
+  author    = {Zhou, Dengyong and Bousquet, Olivier and Lal, Thomas N and Weston, Jason and Sch{\"o}lkopf, Bernhard},
+  booktitle = {Advances in neural information processing systems},
+  title     = {Learning with local and global consistency},
+  year      = {2004},
+  pages     = {321--328},
+}
+
+@InProceedings{xu2020weakly,
+  author    = {Xu, Xun and Lee, Gim Hee},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title     = {Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels},
+  year      = {2020},
+  pages     = {13706--13715},
+}
+
+@InProceedings{liu2021one,
+  author    = {Liu, Zhengzhe and Qi, Xiaojuan and Fu, Chi-Wing},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title     = {One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation},
+  year      = {2021},
+  pages     = {1726--1736},
+}
+
+@Article{pathak2014fully,
+  author  = {Pathak, Deepak and Shelhamer, Evan and Long, Jonathan and Darrell, Trevor},
+  journal = {arXiv preprint arXiv:1412.7144},
+  title   = {Fully convolutional multi-class multiple instance learning},
+  year    = {2014},
+}
+
+@Article{iandola2014densenet,
+  author  = {Iandola, Forrest and Moskewicz, Matt and Karayev, Sergey and Girshick, Ross and Darrell, Trevor and Keutzer, Kurt},
+  journal = {arXiv preprint arXiv:1404.1869},
+  title   = {Densenet: Implementing efficient convnet descriptor pyramids},
+  year    = {2014},
+}
+
+@Article{zhang2019linked,
+  author  = {Zhang, Kuangen and Hao, Ming and Wang, Jing and de Silva, Clarence W and Fu, Chenglong},
+  journal = {arXiv preprint arXiv:1904.10014},
+  title   = {Linked dynamic graph cnn: Learning on point cloud via linking hierarchical features},
+  year    = {2019},
+}
+
+@Article{DBLP:journals/corr/abs-1803-10091,
+  author     = {Matan Atzmon and Haggai Maron and Yaron Lipman},
+  journal    = {CoRR},
+  title      = {Point Convolutional Neural Networks by Extension Operators},
+  year       = {2018},
+  volume     = {abs/1803.10091},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-1803-10091.bib},
+  eprint     = {1803.10091},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Aug 2018 16:48:06 +0200},
+  url        = {http://arxiv.org/abs/1803.10091},
+}
+
+@Article{DBLP:journals/corr/abs-2010-11929,
+  author     = {Alexey Dosovitskiy and Lucas Beyer and Alexander Kolesnikov and Dirk Weissenborn and Xiaohua Zhai and Thomas Unterthiner and Mostafa Dehghani and Matthias Minderer and Georg Heigold and Sylvain Gelly and Jakob Uszkoreit and Neil Houlsby},
+  journal    = {CoRR},
+  title      = {An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
+  year       = {2020},
+  volume     = {abs/2010.11929},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2010-11929.bib},
+  eprint     = {2010.11929},
+  eprinttype = {arXiv},
+  timestamp  = {Fri, 20 Nov 2020 14:04:05 +0100},
+  url        = {https://arxiv.org/abs/2010.11929},
+}
+
+@InProceedings{vaswani2017attention,
+  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle = {Advances in neural information processing systems},
+  title     = {Attention is all you need},
+  year      = {2017},
+  pages     = {5998--6008},
+}
+
+@InProceedings{zhao2021point,
+  author    = {Zhao, Hengshuang and Jiang, Li and Jia, Jiaya and Torr, Philip HS and Koltun, Vladlen},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  title     = {Point transformer},
+  year      = {2021},
+  pages     = {16259--16268},
+}
+
+@Article{li2018pointcnn,
+  author  = {Li, Yangyan and Bu, Rui and Sun, Mingchao and Wu, Wei and Di, Xinhan and Chen, Baoquan},
+  journal = {Advances in neural information processing systems},
+  title   = {Pointcnn: Convolution on x-transformed points},
+  year    = {2018},
+  pages   = {820--830},
+  volume  = {31},
+}
+
+@InProceedings{zhou2017scene,
+  author    = {Zhou, Bolei and Zhao, Hang and Puig, Xavier and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  title     = {Scene parsing through ade20k dataset},
+  year      = {2017},
+  pages     = {633--641},
+}
+
+@Article{DBLP:journals/corr/abs-2012-12877,
+  author     = {Hugo Touvron and Matthieu Cord and Matthijs Douze and Francisco Massa and Alexandre Sablayrolles and Herv{\'{e}} J{\'{e}}gou},
+  journal    = {CoRR},
+  title      = {Training data-efficient image transformers {\&} distillation through attention},
+  year       = {2020},
+  volume     = {abs/2012.12877},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2012-12877.bib},
+  eprint     = {2012.12877},
+  eprinttype = {arXiv},
+  timestamp  = {Tue, 05 Jan 2021 16:02:31 +0100},
+  url        = {https://arxiv.org/abs/2012.12877},
+}
+
+@Article{DBLP:journals/corr/WuSKTX14,
+  author     = {Zhirong Wu and Shuran Song and Aditya Khosla and Xiaoou Tang and Jianxiong Xiao},
+  journal    = {CoRR},
+  title      = {3D ShapeNets for 2.5D Object Recognition and Next-Best-View Prediction},
+  year       = {2014},
+  volume     = {abs/1406.5670},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/WuSKTX14.bib},
+  eprint     = {1406.5670},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Aug 2018 16:47:24 +0200},
+  url        = {http://arxiv.org/abs/1406.5670},
+}
+
+@InProceedings{armeni20163d,
+  author    = {Armeni, Iro and Sener, Ozan and Zamir, Amir R and Jiang, Helen and Brilakis, Ioannis and Fischer, Martin and Savarese, Silvio},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  title     = {3d semantic parsing of large-scale indoor spaces},
+  year      = {2016},
+  pages     = {1534--1543},
+}
+
+@InProceedings{dai2017scannet,
+  author    = {Dai, Angela and Chang, Angel X and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  title     = {Scannet: Richly-annotated 3d reconstructions of indoor scenes},
+  year      = {2017},
+  pages     = {5828--5839},
+}
+
+@Article{guo2020deep,
+  author    = {Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
+  journal   = {IEEE transactions on pattern analysis and machine intelligence},
+  title     = {Deep learning for 3d point clouds: A survey},
+  year      = {2020},
+ 
